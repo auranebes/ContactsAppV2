@@ -1,0 +1,6 @@
+framework module Pods_ContactsAppV2 {
+  umbrella header "Pods-ContactsAppV2-umbrella.h"
+
+  export *
+  module * { export * }
+}

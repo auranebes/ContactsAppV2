@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '15.0'
+
+target 'ContactsAppV2' do
+  # Comment the nt xline if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ContactsAppV2
+
+end
